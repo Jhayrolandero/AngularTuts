@@ -9,7 +9,7 @@ New Angular projects' version by default are standalone and aren't properly docu
 ng new myapp --no-standalone
 ```
 
-> make sur eyou have latest version of node
+> make sure you have the latest version of node
 
 #### Some Handy Angular CLI commands i know
 
