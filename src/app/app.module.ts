@@ -5,12 +5,20 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { HeroesComponent } from './component/heroes/heroes.component';
 
-import { FormsModule } from '@angular/forms'; // <-- NgModel lives here
+import { FormsModule } from '@angular/forms';
+import { HeroDetailComponent } from './component/hero-detail/hero-detail.component';
+import { MessagesComponent } from './component/messages/messages.component';
+import { HeaderComponent } from './component/header/header.component';
+import { DashboardComponent } from './component/dashboard/dashboard.component';
 @NgModule({
   declarations: [
     AppComponent,
-    HeroesComponent
-  ],
+    HeroesComponent,
+    HeroDetailComponent,
+    MessagesComponent,
+    HeaderComponent,
+    DashboardComponent
+    ],
   imports: [
     BrowserModule,
     AppRoutingModule,
