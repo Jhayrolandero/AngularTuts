@@ -3,7 +3,7 @@
 New Angular projects' version by default are standalone and aren't properly documented yet from what i have found to start a new project use the command:
 
 
-> I don't know if there are online resource out there for Angular 17 but common tutorials on Internet uses older version so might help you save time
+> I don't know if there are online resource out there for Angular 17 but common tutorials on Internet uses older version so might help you save timea
 
 ```sh
 ng new myapp --no-standalone
