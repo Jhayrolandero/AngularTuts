@@ -12,7 +12,7 @@ ng new myapp --no-standalone
 > make sure you have the latest version of node
 
 #### Some Handy Angular CLI commands i know
-
+s
 Making a new component
 
 ```sh
